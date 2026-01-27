@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nkosinathi Michael Sibanda<br>👀 I’m interested in Python programming, Java, C programming and C++ Programming.<br>🌱 I’m currently learning B.Tech CSE<br>💞️ I’m looking to collaborate on everything.<br>📫 How to reach me 23mh1a05h9@acoe.edu.in<br>🌐 Portfolio: [nkosinathisibanda.me](https://nkosinathisibanda.me/)<br>😄 Pronouns: He/Him
+👋 Hi, I’m Nkosinathi Michael Sibanda<br>👀 I’m interested in Python programming, Java, C programming and C++ Programming.<br>🌱 I’m currently learning B.Tech CSE<br>🤝 I’m looking to collaborate on everything.<br>📫 How to reach me 23mh1a05h9@acoe.edu.in<br>🌐 Portfolio: [nkosinathisibanda.me](https://nkosinathisibanda.me/)<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
